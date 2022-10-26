@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/cuda/MLOps/ml_pipeline_mlfow/mlruns/1/491af4866a164d1586219bcd665622f8/artifacts
+end_time: 1666249777496
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 491af4866a164d1586219bcd665622f8
+run_uuid: 491af4866a164d1586219bcd665622f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666249771609
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,7 @@
+artifact_location: file:///C:/cuda/MLOps/ml_pipeline_mlfow/mlruns/0
+creation_time: 1665821872226
+experiment_id: '0'
+last_update_time: 1666256502282
+lifecycle_stage: active
+name: Default
+tags: {}
